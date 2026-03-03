@@ -95,3 +95,14 @@ MovingUpState.getInstance());
 ✅ Zero object creation
 ✅ Memory efficient
 ✅ Production-safe
+
+
+Floor Button Press
+↓
+ElevatorSystem (Dispatcher)
+↓
+Select Best Elevator
+↓
+ElevatorController
+↓
+Elevator
